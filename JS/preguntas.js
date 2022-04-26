@@ -25,15 +25,17 @@ const continuarSiguientePregunta = () => {
     let indice = document.getElementById("indicePregunta").value
     console.log(verificarRadioButton(ronda, indice)+"<----------------");
     if (verificarRadioButton(ronda, indice)) {
-        guardarPuntaje(false)
-        mostrarPreguntas()
-        alert("Felicidades, siguiente pregunta")
+        if(ronda === "5"){
+            salir()
+        }else{
+            guardarPuntaje(false)
+            mostrarPreguntas()
+            alert("Felicidades, siguiente pregunta")
+        }
     } else if(!verificarRadioButton(ronda, indice) && verificarRadioButton(ronda, indice) !== 0){
         guardarPuntaje(true)
         alert("Has perdido")
-        let enlace = document.getElementById("responder")
-        enlace.href = "./final.html"
-        enlace.click()
+        salir()
     }
     if (verificarRadioButton(ronda, indice) === 0) {
         alert("Responda la pregunta por favor")
@@ -51,7 +53,7 @@ const verificarRadioButton = (ronda, indice) => {
     return 0
 }
 
-const salirVoluntario = () => {
+const salir = () => {
     let enlaceFinal = document.getElementById("responder")
     enlaceFinal.href = "./final.html"
     enlaceFinal.click()
@@ -61,4 +63,4 @@ let botonContinuar = document.getElementById("btnResponder")
 botonContinuar.addEventListener("click", continuarSiguientePregunta, true)
 
 let botonSalirVoluntario = document.getElementById("salir")
-botonSalirVoluntario.addEventListener("click", salirVoluntario, true)
+botonSalirVoluntario.addEventListener("click", salir, true)
