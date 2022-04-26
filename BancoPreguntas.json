@@ -1,0 +1,37 @@
+{
+    "ronda1":{
+        "1":["Quien fue el fundador de chocolates Wonka?\n1:Willy Martinez\n2:Mikel Jackson\n3:Willy Wonka\n4:Jose Maestre",3],
+        "2":["Cuantos dias le toma a la tierra dar una vuelta al sol?\n1:31 \n2:250\n3:360\n4:365",4],
+        "3":["Cual es el rio mas caudaloso del mundo?\n1:Nilo\n2:Amazonas\n3:Mission Mississippi\n4:Yang Tse Kiang",2],
+        "4":["Donde se encuentra la casa rosada?\n1:Argentina\n2:Colombia\n3:Venezuela\n4:Filipinas",1],
+        "5":["Una arepa catira en Venezuela lleva: \n1:Mozzarella\n2:Queso amarillo\n3:Frijoles negros\n4:Huevo",2]
+    },
+    "ronda2":{
+        "1":["Como se llamaba el caballo de Don Quijote de la mancha?\n1:Rucio Moro\n2:Rocinante\n3:Copo de nieve\n4:Nevado",2],
+        "2":["Cuantos elementos tiene la tabla periodica\n1:118\n2:117\n3:120\n4:122",1],
+        "3":["Que ciencia estudia la sangre?\n1:Ciencia Hematologica\n2:Hematologia\n3:Hematolociencia\n4:Ciencia de la sangre y el plasma",2],
+        "4":["Como se llama el protagonista de la serie CSI:MIAMI?\n1:Argent\n2:Alan\n3:Horacio\n4:Philip",3],
+        "5":["En Venezuela se dice que es una reina pepiada: \n1:Una mujer muy hermosa\n2:Una arepa\n3:Una gran cantidad de dinero\n4:Una coincidencia",2]
+    },
+    "ronda3":{
+        "1":["Cuanto duro la guerra de los 100 años?\n1:100\n2:161\n3:110\n4:116",4],
+        "2":["Que carabela no volvio del viaje donde Colon arribo a America la primera vez?\n1:La Pinta\n2:La Nina\n3:La Alejandrina\n4:La Santa Maria",4],
+        "3":["Que isla sirvio de prision para Napoleon tras ser derrotado en Waterloo?\n1:Santa Elena\n2:Santa Eulalia\n3:Santa Ana\n4:Santa Maria",1],
+        "4":["En que pais se habla mayoritariamente el idioma Tagalog?\n1:Filipinas\n2:Corea del sur \n3:Japon\n4:Corea del norte",1],
+        "5":["Cual es la ciudad mas poblada de Africa\n1:El cairo\n2:Nairobi\n3:Luanda\n4:Pretoria",1]
+    },
+    "ronda4":{
+        "1":["Como se llama el plato de puchero tipico de Hungria hecho a partir de carne, cebolla y pimientos?\n1:Strogonoff\n2:Gulash\n3:Palacsinta\n4:Somloi Galuska",2],
+        "2":["Como se llama el manga de Kentaro Miura protagonizado por Guts?\n1:Berserk \n2:Jungle Taitei\n3:Sazae-San\n4:Guts-San",1],
+        "3":["De que estilo arquitectonico es la catedral de Notre Dame?\n1:Gotico\n2:Eclesiastico\n3:Oscurantista\n4:Contemporaneo",1],
+        "4":["De que pais es originario el tipo de poema breve de diecisiete sílabas, escrito en tres versos de cinco, siete y cinco sílabas respectivamente?\n1:Filipinas\n2:Corea del sur \n3:Japon\n4:Corea del norte",3],
+        "5":["Que animal mitologico da nombre a uno de los libros mas conocidos de Thomas Hobbes?\n1:El monstruo del lago Ness\n2:Dracula\n3:Leviatan\n4:La Quimera",3]
+    },
+    "ronda5":{
+        "1":["Como se llama el pintor noruego autor de la obra 'El Grito'?\n1:Picasso\n2:Eda Munch\n3:Edvard Munch\n4:Edward Durin",3],
+        "2":["El reino protoctista en la naturaleza se dice que esta constituido por:\n1:Protozoos y amebas \n2:Amebas\n3:Bacterias y algas\n4:Protozoos",1],
+        "3":["Alrededor de que planeta orbitan los satelites Ganimedes, Calisto, Io y Europa?\n1:Venus\n2:Marte\n3:Jupiter\n4:Urano",3],
+        "4":["Con que denominacion se conoce la linea dibujada por las estrellas Alnitak, Alnilam y Mintaka vistas desde nuetro planeta?\n1:Osa mayor\n2:Osa menor\n3:Cancer\n4:Cinturon de Orion",4],
+        "5":["Como se llama el tipo de celula nerviosa mas abundante en el cerebro humano?\n1:Neuronas\n2:Celulas gliales\n3:Globulos rojos\n4:Materia gris",2]
+    }
+}
